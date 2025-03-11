@@ -29,6 +29,5 @@ def main():
     grade = calculate_grade(score)  # Calculate the grade
     print(f"Your Grade is: {grade}")  # Output the grade
 
-# Run the main program
 if __name__ == "__main__":
     main()
